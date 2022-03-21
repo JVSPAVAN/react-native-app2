@@ -1,5 +1,5 @@
 # react-native-app2
-restaurant app in react-native
+Login app in react-native
 
 ## Steps to initailize the app
 
